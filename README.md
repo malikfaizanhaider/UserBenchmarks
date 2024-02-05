@@ -1,3 +1,5 @@
+# User Benchmarks
+
 The `UserBenchmarks` API is a mock server implemented in Node.js using the Express framework. This API serves as a simulated backend for fetching and processing benchmark data related to various computer components. The primary purpose of this API is to handle requests for specific benchmark files, read the corresponding JSON data from the server's local storage, and respond with the parsed JSON content.
 
 ### Key Features:
